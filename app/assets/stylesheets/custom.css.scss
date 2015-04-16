@@ -58,7 +58,6 @@ p {
   line-height: 1.7em;
 }
 
-
 /* header */
 
 #logo {
@@ -149,7 +148,6 @@ aside {
   margin-right: 10px;
 }
 
-
 /* forms */
 
 input, textarea, select, .uneditable-input {
@@ -198,16 +196,20 @@ input {
     border-top: 1px solid #e8e8e8;
   }
 }
+
 .content {
   display: block;
 }
+
 .timestamp {
   color: $lightGray;
 }
+
 .gravatar {
   float: left;
   margin-right: 10px;
 }
+
 aside {
   textarea {
     height: 100px;
